@@ -2,6 +2,7 @@
 This folder contains the data sources and Jupyter notebook used for the completion of CASA0007 coursework 3 - written investigation
 
 The repository contains the following items:
+- CASA0007_QM_cwk3.pdf: notebook containing code and outputs for a hierarchical cluster analysis conducted on the data contained in utla_daily_first_dose.csv. Agglomerative clustering with Euclidean distance was used in this case.
 
 - utla_daily_first_dose.csv: data on the number of first dose COVID-19 vaccinations by day delivered in each upper tier local authority in England, Wales and Scotland beween 8 Dec 2020 and 8 Dec 2021. Data originally from: https://coronavirus.data.gov.uk/details/download
 
