@@ -4,7 +4,7 @@ This folder contains the data sources and Jupyter notebook used for the completi
 The repository contains the following items:
 - CASA0007_QM_cwk3.pdf: notebook containing code and outputs for a herarchical cluster analysis conducted on the data contained in utla_daily_first_dose.csv. Agglomerative clustering with Euclidean distance was used in this case.
 
-- QM0007_cwk3_DTW_100days.ipynb: notebook containing the calculation of the distance matrix using DTW, implemented using the DTW library. Note that the current implementation is VERY slow at present (10 minutes to calculate the matrix)
+- QM0007_cwk3_DTW_100days.ipynb: notebook containing the calculation of the distance matrix using DTW, implemented using the dtaidistance library. Note that the current implementation is VERY slow at present (10 minutes to calculate the matrix)
 
 - utla_daily_first_dose.csv: data on the number of first dose COVID-19 vaccinations by day delivered in each upper tier local authority in England, Wales and Scotland beween 8 Dec 2020 and 8 Dec 2021. Data originally from: https://coronavirus.data.gov.uk/details/download
 
